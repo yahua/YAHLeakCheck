@@ -1,1 +1,2 @@
 # YAHLeakCheck
+自动检测UIViewController是否及时释放
